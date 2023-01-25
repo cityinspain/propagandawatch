@@ -2,6 +2,8 @@
 
 a work-in-progress, crowdsourced application for the tracking and removal of hate group propaganda, recruitment posters, etc.
 
+> NOTE: yes, i know that the codebase is a disaster, with linting errors all over the place. i'll get around to cleaning it soon.
+
 ---
 
 ![](docs/new_report.png)
