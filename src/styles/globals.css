@@ -1,0 +1,4 @@
+/* import modified version of tailwind preflight for compatibility with mantine's buttons */
+@import url("./tailwind-preflight.css");
+@tailwind components;
+@tailwind utilities;
